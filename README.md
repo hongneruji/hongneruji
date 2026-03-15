@@ -1,4 +1,8 @@
 <p align="center" width="100%">
+    <img width="100%" src="https://github.com/hongneruji/zzZ/blob/566182c04ee49607bbe6a9ed7fd4b287cd52183a/Untitled120_20260314222730.png"> 
+</p>
+
+<p align="center" width="100%">
     <img width="33%" src="https://komarev.com/ghpvc/?username=burgersandmaples&color=C2ABC3"> 
 </p>
 
@@ -9,7 +13,9 @@
 
 ![image alt](https://github.com/hongneruji/zzZ/blob/566182c04ee49607bbe6a9ed7fd4b287cd52183a/Untitled116_20260314221412.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pirata+One&size=50&duration=01&pause=1&color=C2ABC3&center=true&multiline=true&repeat=false&width=435&height=60&lines=About+Me)](https://git.io/typing-svg)
+<p align="center" width="100%">
+    <img width="80%" src="https://readme-typing-svg.demolab.com?font=Pirata+One&size=50&duration=01&pause=1&color=C2ABC3&center=true&multiline=true&repeat=false&width=435&height=60&lines=About+Me"> 
+</p>
 <table>
   <tr>
     <th>
@@ -23,7 +29,10 @@
 
 ![image alt](https://github.com/hongneruji/zzZ/blob/566182c04ee49607bbe6a9ed7fd4b287cd52183a/Untitled118_20260314221805.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pirata+One&size=50&duration=01&pause=1&color=C2ABC3&center=true&multiline=true&repeat=false&width=435&height=60&lines=BYI)](https://git.io/typing-svg)
+<p align="center" width="100%">
+    <img width="80%" src="https://readme-typing-svg.demolab.com?font=Pirata+One&size=50&duration=01&pause=1&color=C2ABC3&center=true&multiline=true&repeat=false&width=435&height=60&lines=BYI"> 
+    
+</p>
 <table>
   <tr>
     <th>
@@ -39,11 +48,11 @@
 
 ![image alt](https://github.com/hongneruji/zzZ/blob/566182c04ee49607bbe6a9ed7fd4b287cd52183a/Untitled116_20260314221412.png)
 
-![image alt](https://github.com/hongneruji/zzZ/blob/566182c04ee49607bbe6a9ed7fd4b287cd52183a/jiang-cheng-mdzs.gif)
+<p align="center" width="100%">
+    <img width="70%" src="https://github.com/hongneruji/zzZ/blob/566182c04ee49607bbe6a9ed7fd4b287cd52183a/jiang-cheng-mdzs.gif"> 
+</p>
 
 ![image alt](https://github.com/hongneruji/zzZ/blob/566182c04ee49607bbe6a9ed7fd4b287cd52183a/Untitled116_20260314221328.png)
-
-![image alt](https://github.com/hongneruji/zzZ/blob/566182c04ee49607bbe6a9ed7fd4b287cd52183a/Untitled120_20260314222730.png)
 
 <p align="center" width="100%">
     <img width="50%" src="https://github.com/hongneruji/zzZ/blob/566182c04ee49607bbe6a9ed7fd4b287cd52183a/blinkiesCafe-Gq.gif"> 
