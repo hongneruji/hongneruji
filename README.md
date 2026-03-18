@@ -27,7 +27,9 @@
   </tr>
 </table>
 
-![image alt](https://github.com/hongneruji/zzZ/blob/566182c04ee49607bbe6a9ed7fd4b287cd52183a/Untitled118_20260314221805.png)
+<p align="center" width="100%">
+    <img width="100%" src="https://github.com/hongneruji/hongneruji/blob/ee3884d918abfad2c56fd65008b762f34f2e9db9/Untitled143_20260317222318.png"> 
+</p>
 
 <p align="center" width="100%">
     <img width="80%" src="https://readme-typing-svg.demolab.com?font=Pirata+One&size=50&duration=01&pause=1&color=C2ABC3&center=true&multiline=true&repeat=false&width=435&height=60&lines=BYI"> 
