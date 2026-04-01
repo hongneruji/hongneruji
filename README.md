@@ -50,7 +50,7 @@
 ![image alt](https://github.com/hongneruji/zzZ/blob/566182c04ee49607bbe6a9ed7fd4b287cd52183a/Untitled116_20260314221412.png)
 
 <p align="center" width="100%">
-    <img width="70%" src="https://github.com/hongneruji/zzZ/blob/566182c04ee49607bbe6a9ed7fd4b287cd52183a/jiang-cheng-mdzs.gif"> 
+    <img width="70%" src="https://github.com/hongneruji/hongneruji/blob/bf5bf2fb4770ed8c6b363d58becbb80bc77e9188/ezgif-73feec28b200efd4.gif"> 
 </p>
 
 ![image alt](https://github.com/hongneruji/hongneruji/blob/76fbc04a74dff6498e2e19e5dd146a71235bf805/Untitled143_20260317221539.png)
