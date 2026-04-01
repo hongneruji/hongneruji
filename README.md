@@ -56,5 +56,5 @@
 ![image alt](https://github.com/hongneruji/hongneruji/blob/76fbc04a74dff6498e2e19e5dd146a71235bf805/Untitled143_20260317221539.png)
 
 <p align="center" width="100%">
-    <img width="50%" src="https://github.com/hongneruji/zzZ/blob/566182c04ee49607bbe6a9ed7fd4b287cd52183a/blinkiesCafe-Gq.gif"> 
+    <img width="50%" src="https://github.com/hongneruji/hongneruji/blob/c900d49079fed2e3073fe8ee352e9b89caec4d83/jiang%20cheng%20i%20love%20you.gif"> 
 </p>
