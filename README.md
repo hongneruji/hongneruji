@@ -43,7 +43,6 @@
         $\color{#C2ABC3}{I~struggle~with~chatting~first,}$
         $\color{#C2ABC3}{be~patient~with~me~please~:,0}$
         $\color{#C2ABC3}{im~a~minor~so~don't~int~if~you're~not!}$
-        $\color{#C2ABC3}{i~am~chill~so~you~don't~have~to~walk~eggshells~around~me~:3}$
     </th>
   </tr>
 </table>
