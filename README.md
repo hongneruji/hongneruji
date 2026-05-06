@@ -1,60 +1,60 @@
 <p align="center" width="100%">
-    <img width="100%" src="https://github.com/hongneruji/zzZ/blob/566182c04ee49607bbe6a9ed7fd4b287cd52183a/Untitled120_20260314222730.png"> 
+    <img width="100%" src="https://github.com/hongneruji/hongneruji/blob/9a1b9032f4204108f809ec91f1095f4382fa2f7f/Untitled15_0000-00-36_20260505213533.png"> 
 </p>
 
 <p align="center" width="100%">
-    <img width="33%" src="https://komarev.com/ghpvc/?username=burgersandmaples&color=C2ABC3"> 
+    <img width="33%" src="https://komarev.com/ghpvc/?username=burgersandmaples&color=B9A5A9"> 
 </p>
 
-![image alt](https://github.com/hongneruji/hongneruji/blob/76fbc04a74dff6498e2e19e5dd146a71235bf805/Untitled143_20260317221514.png)
+![image alt](https://github.com/hongneruji/hongneruji/blob/9a1b9032f4204108f809ec91f1095f4382fa2f7f/Untitled12_20260505211549.png)
 <p align="center" width="100%">
-    <img width="80%" src="https://github.com/hongneruji/zzZ/blob/f8689f76e565ae897b324fa8fad900dad63270e4/Untitled121_20260314223725.png"> 
+    <img width="80%" src="https://github.com/hongneruji/hongneruji/blob/9a1b9032f4204108f809ec91f1095f4382fa2f7f/Untitled10_20260505211358.png"> 
 </p>
 
-![image alt](https://github.com/hongneruji/zzZ/blob/566182c04ee49607bbe6a9ed7fd4b287cd52183a/Untitled116_20260314221412.png)
+![image alt](https://github.com/hongneruji/hongneruji/blob/9a1b9032f4204108f809ec91f1095f4382fa2f7f/Untitled13_20260505211643.png)
 
 <p align="center" width="100%">
-    <img width="80%" src="https://readme-typing-svg.demolab.com?font=Pirata+One&size=50&duration=01&pause=1&color=C2ABC3&center=true&multiline=true&repeat=false&width=435&height=60&lines=About+Me"> 
+    <img width="80%" src="https://readme-typing-svg.demolab.com?font=Pirata+One&size=50&duration=01&pause=1&color=B9A5A9&center=true&multiline=true&repeat=false&width=435&height=60&lines=About+Me"> 
 </p>
 <table>
   <tr>
     <th>
-        $\color{#C2ABC3}{i~like~cats~and~im~an~isfp!}$
-        $\color{#C2ABC3}{i~was~born~on~4/4~:D}$
-        $\color{#C2ABC3}{i~am~quite~shy~but~when~i~get~to~know~you~im~talkative}$
-        $\color{#C2ABC3}{feel~free~to~C+H!}$
+        $\color{#B9A5A9}{i~like~cats~and~im~an~isfp!}$
+        $\color{#B9A5A9}{i~was~born~on~4/4~:D}$
+        $\color{#B9A5A9}{i~am~quite~shy~but~when~i~get~to~know~you~im~talkative}$
+        $\color{#B9A5A9}{feel~free~to~C+H!}$
     </th>
   </tr>
 </table>
 
 <p align="center" width="100%">
-    <img width="100%" src="https://github.com/hongneruji/hongneruji/blob/ee3884d918abfad2c56fd65008b762f34f2e9db9/Untitled143_20260317222318.png"> 
+    <img width="100%" src="https://github.com/hongneruji/hongneruji/blob/d8559f52217f2a73bc277f8cd2cbf565302fc0c9/Untitled18_20260505215504.png"> 
 </p>
 
 <p align="center" width="100%">
-    <img width="80%" src="https://readme-typing-svg.demolab.com?font=Pirata+One&size=50&duration=01&pause=1&color=C2ABC3&center=true&multiline=true&repeat=false&width=435&height=60&lines=BYI"> 
+    <img width="80%" src="https://readme-typing-svg.demolab.com?font=Pirata+One&size=50&duration=01&pause=1&color=B9A5A9&center=true&multiline=true&repeat=false&width=435&height=60&lines=BYI"> 
     
 </p>
 <table>
   <tr>
     <th>
-        $\color{#C2ABC3}{im~not~good~with~interaction~and~im~quite~awkward..}$
-        $\color{#C2ABC3}{im~nice!}$
-        $\color{#C2ABC3}{I~struggle~with~chatting~first,}$
-        $\color{#C2ABC3}{be~patient~with~me~please~:,0}$
-        $\color{#C2ABC3}{im~a~minor~so~don't~int~if~you're~not!}$
+        $\color{#B9A5A9}{im~not~good~with~interaction~and~im~quite~awkward..}$
+        $\color{#B9A5A9}{im~nice!}$
+        $\color{#B9A5A9}{I~struggle~with~chatting~first,}$
+        $\color{#B9A5A9}{be~patient~with~me~please~:,0}$
+        $\color{#B9A5A9}{im~a~minor~so~don't~int~if~you're~not!}$
     </th>
   </tr>
 </table>
 
-![image alt](https://github.com/hongneruji/zzZ/blob/566182c04ee49607bbe6a9ed7fd4b287cd52183a/Untitled116_20260314221412.png)
+![image alt](https://github.com/hongneruji/hongneruji/blob/9a1b9032f4204108f809ec91f1095f4382fa2f7f/Untitled13_20260505211643.png)
 
 <p align="center" width="100%">
-    <img width="70%" src="https://github.com/hongneruji/hongneruji/blob/bf5bf2fb4770ed8c6b363d58becbb80bc77e9188/ezgif-73feec28b200efd4.gif"> 
+    <img width="70%" src="https://github.com/hongneruji/hongneruji/blob/9a3e2c45f6b81df05ff5baebb778da0f5f89ef1f/ezgif-4dc898787f663193.gif"> 
 </p>
 
-![image alt](https://github.com/hongneruji/hongneruji/blob/76fbc04a74dff6498e2e19e5dd146a71235bf805/Untitled143_20260317221539.png)
+![image alt](https://github.com/hongneruji/hongneruji/blob/9a3e2c45f6b81df05ff5baebb778da0f5f89ef1f/Untitled12_20260505211606.png)
 
 <p align="center" width="100%">
-    <img width="50%" src="https://github.com/hongneruji/hongneruji/blob/c900d49079fed2e3073fe8ee352e9b89caec4d83/jiang%20cheng%20i%20love%20you.gif"> 
+    <img width="50%" src="https://github.com/hongneruji/hongneruji/blob/9a3e2c45f6b81df05ff5baebb778da0f5f89ef1f/ezgif-4b0c857890042a9c.gif"> 
 </p>
