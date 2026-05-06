@@ -3,7 +3,7 @@
 </p>
 
 <p align="center" width="100%">
-    <img width="33%" src="https://komarev.com/ghpvc/?username=burgersandmaples&color=B9A5A9"> 
+    <img width="33%" src="https://komarev.com/ghpvc/?username=burgersandmaples&color=FFFDDE"> 
 </p>
 
 ![image alt](https://github.com/hongneruji/hongneruji/blob/9a1b9032f4204108f809ec91f1095f4382fa2f7f/Untitled12_20260505211549.png)
@@ -14,15 +14,15 @@
 ![image alt](https://github.com/hongneruji/hongneruji/blob/9a1b9032f4204108f809ec91f1095f4382fa2f7f/Untitled13_20260505211643.png)
 
 <p align="center" width="100%">
-    <img width="80%" src="https://readme-typing-svg.demolab.com?font=Pirata+One&size=50&duration=01&pause=1&color=B9A5A9&center=true&multiline=true&repeat=false&width=435&height=60&lines=About+Me"> 
+    <img width="80%" src="https://readme-typing-svg.demolab.com?font=Pirata+One&size=50&duration=01&pause=1&color=FFFDDE&center=true&multiline=true&repeat=false&width=435&height=60&lines=About+Me"> 
 </p>
 <table>
   <tr>
     <th>
-        $\color{#B9A5A9}{i~like~cats~and~im~an~isfp!}$
-        $\color{#B9A5A9}{i~was~born~on~4/4~:D}$
-        $\color{#B9A5A9}{i~am~quite~shy~but~when~i~get~to~know~you~im~talkative}$
-        $\color{#B9A5A9}{feel~free~to~C+H!}$
+        $\color{#FFFDDE}{i~like~cats~and~im~an~isfp!}$
+        $\color{#FFFDDE}{i~was~born~on~4/4~:D}$
+        $\color{#FFFDDE}{i~am~quite~shy~but~when~i~get~to~know~you~im~talkative}$
+        $\color{#FFFDDE}{feel~free~to~C+H!}$
     </th>
   </tr>
 </table>
@@ -32,17 +32,17 @@
 </p>
 
 <p align="center" width="100%">
-    <img width="80%" src="https://readme-typing-svg.demolab.com?font=Pirata+One&size=50&duration=01&pause=1&color=B9A5A9&center=true&multiline=true&repeat=false&width=435&height=60&lines=BYI"> 
+    <img width="80%" src="https://readme-typing-svg.demolab.com?font=Pirata+One&size=50&duration=01&pause=1&color=FFFDDE&center=true&multiline=true&repeat=false&width=435&height=60&lines=BYI"> 
     
 </p>
 <table>
   <tr>
     <th>
-        $\color{#B9A5A9}{im~not~good~with~interaction~and~im~quite~awkward..}$
-        $\color{#B9A5A9}{im~nice!}$
-        $\color{#B9A5A9}{I~struggle~with~chatting~first,}$
-        $\color{#B9A5A9}{be~patient~with~me~please~:,0}$
-        $\color{#B9A5A9}{im~a~minor~so~don't~int~if~you're~not!}$
+        $\color{#FFFDDE}{im~not~good~with~interaction~and~im~quite~awkward..}$
+        $\color{#FFFDDE}{im~nice!}$
+        $\color{#FFFDDE}{I~struggle~with~chatting~first,}$
+        $\color{#FFFDDE}{be~patient~with~me~please~:,0}$
+        $\color{#FFFDDE}{im~a~minor~so~don't~int~if~you're~not!}$
     </th>
   </tr>
 </table>
