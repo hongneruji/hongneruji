@@ -22,7 +22,7 @@
         $\color{#FFFDDE}{i~like~cats~and~im~an~isfp!}$
         $\color{#FFFDDE}{i~was~born~on~4/4~:D}$
         $\color{#FFFDDE}{i~am~quite~shy~but~when~i~get~to~know~you~im~talkative}$
-        $\color{#FFFDDE}{feel~free~to~C+H!}$
+        $\color{#FFFDDE}{feel~free~to~C+H~on~ponytown!}$
     </th>
   </tr>
 </table>
